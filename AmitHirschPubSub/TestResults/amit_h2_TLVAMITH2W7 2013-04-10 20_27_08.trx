@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4d1f88d3-4735-45f7-b37a-69eb9790958f" name="amit_h2@TLVAMITH2W7 2013-04-10 20:27:08" runUser="VERIFONE\amit_h2" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="fa61efe0-547d-402c-8bd3-8c8c84c47f44">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="amit_h2_TLVAMITH2W7 2013-04-10 20_27_08">
+      <DeploymentItem filename="C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\bin\Debug\PubSub.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-10T20:27:08.2412939+03:00" queuing="2013-04-10T20:27:09.9744672+03:00" start="2013-04-10T20:27:09.9994697+03:00" finish="2013-04-10T20:27:10.2884986+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="On_Subscriber_OneTopic_Register_Broker_Has_SubscriberAndTopic" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="db09702a-94df-37db-515f-28185e775978">
+      <Execution id="a30a0790-1ad5-440d-8e7f-cd407b5fa2c6" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="On_Subscriber_OneTopic_Register_Broker_Has_SubscriberAndTopic" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="db09702a-94df-37db-515f-28185e775978" executionId="a30a0790-1ad5-440d-8e7f-cd407b5fa2c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a30a0790-1ad5-440d-8e7f-cd407b5fa2c6" testId="db09702a-94df-37db-515f-28185e775978" testName="On_Subscriber_OneTopic_Register_Broker_Has_SubscriberAndTopic" computerName="TLVAMITH2W7" duration="00:00:00.0411019" startTime="2013-04-10T20:27:10.0094707+03:00" endTime="2013-04-10T20:27:10.2414939+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a30a0790-1ad5-440d-8e7f-cd407b5fa2c6">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

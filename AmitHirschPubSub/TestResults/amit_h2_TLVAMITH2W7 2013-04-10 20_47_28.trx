@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3b81ee6c-282b-43cb-8173-9ede2d86118f" name="amit_h2@TLVAMITH2W7 2013-04-10 20:47:28" runUser="VERIFONE\amit_h2" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="fa61efe0-547d-402c-8bd3-8c8c84c47f44">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="amit_h2_TLVAMITH2W7 2013-04-10 20_47_28">
+      <DeploymentItem filename="C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\bin\Debug\PubSub.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-10T20:47:28.3992975+03:00" queuing="2013-04-10T20:47:28.5163092+03:00" start="2013-04-10T20:47:28.5203096+03:00" finish="2013-04-10T20:47:28.7513327+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Subscribers_ReadPublishMessages_OnlyOil" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="1ad78af0-a208-d85b-91d4-5185f5de6a02">
+      <Execution id="e1581651-7bc7-4b66-88a7-0798d10dcca6" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Subscribers_ReadPublishMessages_OnlyOil" />
+    </UnitTest>
+    <UnitTest name="Test_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="f4ad328d-a741-f8e2-789a-34f6cb454100">
+      <Execution id="201bf1b0-cbd2-49ba-b211-257603c8af51" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" />
+    </UnitTest>
+    <UnitTest name="Various_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="edff5d04-1905-e28a-33ad-4c1181ba85b0">
+      <Execution id="96e29399-0300-4253-9c89-b0c1bfef4bad" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Various_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" />
+    </UnitTest>
+    <UnitTest name="Subscriber_With_OneTopic_Register_Broker_ShouldHave_SubscriberAndTopic" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="fe11d72b-cd01-6051-ec63-62f28a4cb101">
+      <Execution id="873fed9a-94e7-4cc7-a6ed-70f2ed903bd8" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Subscriber_With_OneTopic_Register_Broker_ShouldHave_SubscriberAndTopic" />
+    </UnitTest>
+    <UnitTest name="Subscriber_With_TwoTopic_Register_Broker_ShouldHave_SubscriberAndTopics" storage="c:\projects\managed services\dev\general prepaid (gpp)\solutionfolder\amithirschpubsub\pubsubtests\bin\debug\pubsubtests.dll" id="ae07d948-53f4-3618-4fa4-1ddc8937fc75">
+      <Execution id="0fe539b5-411f-4789-aad1-ab3fd9c61c12" />
+      <TestMethod codeBase="C:/Projects/Managed Services/Dev/General Prepaid (GPP)/SolutionFolder/AmitHirschPubSub/PubSubTests/bin/Debug/PubSubTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PubSubTests.Tests, PubSubTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Subscriber_With_TwoTopic_Register_Broker_ShouldHave_SubscriberAndTopics" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1ad78af0-a208-d85b-91d4-5185f5de6a02" executionId="e1581651-7bc7-4b66-88a7-0798d10dcca6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae07d948-53f4-3618-4fa4-1ddc8937fc75" executionId="0fe539b5-411f-4789-aad1-ab3fd9c61c12" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="edff5d04-1905-e28a-33ad-4c1181ba85b0" executionId="96e29399-0300-4253-9c89-b0c1bfef4bad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4ad328d-a741-f8e2-789a-34f6cb454100" executionId="201bf1b0-cbd2-49ba-b211-257603c8af51" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe11d72b-cd01-6051-ec63-62f28a4cb101" executionId="873fed9a-94e7-4cc7-a6ed-70f2ed903bd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e1581651-7bc7-4b66-88a7-0798d10dcca6" testId="1ad78af0-a208-d85b-91d4-5185f5de6a02" testName="Test_Subscribers_ReadPublishMessages_OnlyOil" computerName="TLVAMITH2W7" duration="00:00:00.0212895" startTime="2013-04-10T20:47:28.5243100+03:00" endTime="2013-04-10T20:47:28.6983274+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1581651-7bc7-4b66-88a7-0798d10dcca6">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 2 Was Registered to broker 0
+Subsbcriber 3 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0fe539b5-411f-4789-aad1-ab3fd9c61c12" testId="ae07d948-53f4-3618-4fa4-1ddc8937fc75" testName="Subscriber_With_TwoTopic_Register_Broker_ShouldHave_SubscriberAndTopics" computerName="TLVAMITH2W7" duration="00:00:00.0008134" startTime="2013-04-10T20:47:28.7003276+03:00" endTime="2013-04-10T20:47:28.7033279+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0fe539b5-411f-4789-aad1-ab3fd9c61c12">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 1 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="96e29399-0300-4253-9c89-b0c1bfef4bad" testId="edff5d04-1905-e28a-33ad-4c1181ba85b0" testName="Various_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" computerName="TLVAMITH2W7" duration="00:00:00.0011382" startTime="2013-04-10T20:47:28.7043280+03:00" endTime="2013-04-10T20:47:28.7073283+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96e29399-0300-4253-9c89-b0c1bfef4bad">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 2 Was Registered to broker 0
+Subsbcriber 2 Was Registered to broker 0
+Subsbcriber 3 Was Registered to broker 0
+Subsbcriber 3 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="201bf1b0-cbd2-49ba-b211-257603c8af51" testId="f4ad328d-a741-f8e2-789a-34f6cb454100" testName="Test_Subscribers_With_Topics_Register_Broker_ShouldHave_SubscribersAndTopics" computerName="TLVAMITH2W7" duration="00:00:00.0011044" startTime="2013-04-10T20:47:28.7203296+03:00" endTime="2013-04-10T20:47:28.7233299+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="201bf1b0-cbd2-49ba-b211-257603c8af51">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 1 Was Registered to broker 0
+Subsbcriber 2 Was Registered to broker 0
+Subsbcriber 2 Was Registered to broker 0
+Subsbcriber 3 Was Registered to broker 0
+Subsbcriber 3 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="873fed9a-94e7-4cc7-a6ed-70f2ed903bd8" testId="fe11d72b-cd01-6051-ec63-62f28a4cb101" testName="Subscriber_With_OneTopic_Register_Broker_ShouldHave_SubscriberAndTopic" computerName="TLVAMITH2W7" duration="00:00:00.0004581" startTime="2013-04-10T20:47:28.7253301+03:00" endTime="2013-04-10T20:47:28.7273303+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="873fed9a-94e7-4cc7-a6ed-70f2ed903bd8">
+      <Output>
+        <DebugTrace>Subsbcriber 1 Was Registered to broker 0
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

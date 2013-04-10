@@ -1,0 +1,5 @@
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\bin\Debug\PubSub.dll
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\bin\Debug\PubSub.pdb
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\obj\Debug\PubSub.dll
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSub\obj\Debug\PubSub.pdb

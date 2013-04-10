@@ -1,0 +1,7 @@
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\bin\Debug\PubSubTests.dll
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\bin\Debug\PubSubTests.pdb
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\obj\Debug\PubSubTests.dll
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\obj\Debug\PubSubTests.pdb
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\bin\Debug\PubSub.dll
+C:\Projects\Managed Services\Dev\General Prepaid (GPP)\SolutionFolder\AmitHirschPubSub\PubSubTests\bin\Debug\PubSub.pdb
